@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dyyk8tfa8lj5i"
+
+[deps]
+
+files=["res://traduction/PolyglotGamedev.en.translation", "res://traduction/PolyglotGamedev.fr.translation", "res://traduction/PolyglotGamedev.ES.translation", "res://traduction/PolyglotGamedev.de.translation", "res://traduction/PolyglotGamedev.it.translation", "res://traduction/PolyglotGamedev.BR.translation", "res://traduction/PolyglotGamedev.PT.translation", "res://traduction/PolyglotGamedev.RU.translation", "res://traduction/PolyglotGamedev.el.translation", "res://traduction/PolyglotGamedev.tr.translation", "res://traduction/PolyglotGamedev.da.translation", "res://traduction/PolyglotGamedev.noNB.translation", "res://traduction/PolyglotGamedev.sv.translation", "res://traduction/PolyglotGamedev.nl.translation", "res://traduction/PolyglotGamedev.pl.translation", "res://traduction/PolyglotGamedev.fi.translation", "res://traduction/PolyglotGamedev.ja.translation", "res://traduction/PolyglotGamedev.Hans.translation", "res://traduction/PolyglotGamedev.Hant.translation", "res://traduction/PolyglotGamedev.ko.translation", "res://traduction/PolyglotGamedev.cs.translation", "res://traduction/PolyglotGamedev.hu.translation", "res://traduction/PolyglotGamedev.ro.translation", "res://traduction/PolyglotGamedev.th.translation", "res://traduction/PolyglotGamedev.BG.translation", "res://traduction/PolyglotGamedev.he.translation", "res://traduction/PolyglotGamedev.ar.translation", "res://traduction/PolyglotGamedev.bs.translation"]
+
+source_file="res://traduction/PolyglotGamedev.csv"
+dest_files=["res://traduction/PolyglotGamedev.en.translation", "res://traduction/PolyglotGamedev.fr.translation", "res://traduction/PolyglotGamedev.ES.translation", "res://traduction/PolyglotGamedev.de.translation", "res://traduction/PolyglotGamedev.it.translation", "res://traduction/PolyglotGamedev.BR.translation", "res://traduction/PolyglotGamedev.PT.translation", "res://traduction/PolyglotGamedev.RU.translation", "res://traduction/PolyglotGamedev.el.translation", "res://traduction/PolyglotGamedev.tr.translation", "res://traduction/PolyglotGamedev.da.translation", "res://traduction/PolyglotGamedev.noNB.translation", "res://traduction/PolyglotGamedev.sv.translation", "res://traduction/PolyglotGamedev.nl.translation", "res://traduction/PolyglotGamedev.pl.translation", "res://traduction/PolyglotGamedev.fi.translation", "res://traduction/PolyglotGamedev.ja.translation", "res://traduction/PolyglotGamedev.Hans.translation", "res://traduction/PolyglotGamedev.Hant.translation", "res://traduction/PolyglotGamedev.ko.translation", "res://traduction/PolyglotGamedev.cs.translation", "res://traduction/PolyglotGamedev.hu.translation", "res://traduction/PolyglotGamedev.ro.translation", "res://traduction/PolyglotGamedev.th.translation", "res://traduction/PolyglotGamedev.BG.translation", "res://traduction/PolyglotGamedev.he.translation", "res://traduction/PolyglotGamedev.ar.translation", "res://traduction/PolyglotGamedev.bs.translation"]
+
+[params]
+
+compress=true
+delimiter=0

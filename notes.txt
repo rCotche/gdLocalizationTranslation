@@ -1,0 +1,19 @@
+maintient appuyer le btn du milieu pou rotate
+maintient appuyer le btn du milieu et shift pour deplacer la camera
+scroll zoom in/out
+
+maintient appuyer le clic droit et zqsd pou deplacer rotate en freemode
+et shift pour aller plus vite
+
+//////////////////////
+
+https://www.youtube.com/watch?v=Lw-3Tnwv4Ds
+
+4.5.1
+
+1er colone = key | colonnes suivantes = language code
+exemple: MENU_LABEL_WELCOME = key | welcome | bienvenue
+
+ajouter le fichier csv dans godot
+
+projet (en haut a gauche) > project settings > localization > ajouter
