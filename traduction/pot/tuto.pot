@@ -1,0 +1,21 @@
+# LANGUAGE translation for localization_translation for the following files:
+# res://scenes/ui.tscn
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: ja\n"
+"Project-Id-Version: localization_translation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: scenes/ui.tscn
+msgid "MENU_LABEL_WELCOME"
+msgstr ""
+
+#: scenes/ui.tscn
+msgid "on va changer le texte"
+msgstr "ça fonctionne"

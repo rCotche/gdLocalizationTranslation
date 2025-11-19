@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=3 uid="uid://cju277kgalq6h"]
+[gd_scene load_steps=3 format=3 uid="uid://cju277kgalq6h"]
 
 [ext_resource type="Script" uid="uid://bp84sa2oy1ewb" path="res://scripts/ui.gd" id="1_nt7q6"]
+[ext_resource type="Texture2D" uid="uid://denqudmoh2t7f" path="res://imgNotes/bonjour_fr.png" id="2_x4jx1"]
 
 [node name="TextMenu" type="Control"]
 layout_mode = 3
@@ -29,5 +30,10 @@ text = "MENU_LABEL_WELCOME"
 [node name="Label" type="Label" parent="CenterContainer/GridContainer"]
 layout_mode = 2
 text = "on va changer le texte"
+
+[node name="BonjourFr" type="Sprite2D" parent="."]
+position = Vector2(591, 146.00002)
+scale = Vector2(0.13644691, 0.19174379)
+texture = ExtResource("2_x4jx1")
 
 [connection signal="pressed" from="CenterContainer/GridContainer/Button" to="." method="_on_button_pressed"]

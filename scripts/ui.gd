@@ -3,8 +3,8 @@ extends Control
 func _ready() -> void:
 	#godot prend par default la langue de l'os, mais si on souhaite changer manuellement
 	#la casse importante
-	TranslationServer.set_locale("ja")
-
+	TranslationServer.set_locale("en")
+	
 func _on_button_pressed() -> void:
 	#Label.text = propriete text, recupere le texte du label
 	#tr(): traduit le texte

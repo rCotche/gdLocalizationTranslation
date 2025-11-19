@@ -16,4 +16,28 @@ exemple: MENU_LABEL_WELCOME = key | welcome | bienvenue
 
 ajouter le fichier csv dans godot
 
-projet (en haut a gauche) > project settings > localization > ajouter
+projet (en haut a gauche) > project settings > localization > tab translation > ajouter
+
+
+POUR LOCALIZE ASSETS
+
+projet (en haut a gauche) > project settings > localization > tab remaps > ajouter 
+puis select l'asset ajouté > ajouter dans la partie (select assets equivalent dans une autre langue) ref image remap_asset.png
+
+ISSUE CUSTOM FONT
+
+peut manquer des caractères surtout pour les langues asiatiques
+
+to fix it, select font > tab import (en haut à gauche, au niveau de la scene (tab scene)) > fallback > add element > select le fichier où il y a les caracteres manquant
+Puis reimporte
+
+PO FILES
+
+projet (en haut a gauche) > project settings > localization > tab POT Generation > ajouter (scene) > generate POT
+
+open the file created > ref image pot_file.png
+
+//////////////////////
+
+https://learn.microsoft.com/en-us/globalization/reference/microsoft-language-resources
+https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM/edit?gid=296134756#gid=296134756
